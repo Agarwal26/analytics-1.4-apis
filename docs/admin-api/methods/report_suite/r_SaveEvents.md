@@ -2,7 +2,7 @@
 
 Updates custom events to each of the specified report suites.
 
-## ReportSuite.SaveSuccessEvents parameters
+## ReportSuite.SaveEvents parameters
 
 |Name|Type|Description|
 |----|----|-----------|
